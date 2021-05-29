@@ -1,6 +1,4 @@
 initial code
 
-
-
-user1 has added code
+user1 removed code
 
